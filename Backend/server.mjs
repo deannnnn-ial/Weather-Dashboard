@@ -10,9 +10,9 @@ dotenv.config();
     cors({
       origin: [
         "http://localhost:4000"//,
-        //"https://backend-927c.onrender.com",
-        //"https://frontend-9vuf.onrender.com",
-      ], // Replace with your frontend's origin
+        //backend link,
+        //frontend link,
+      ], // 
     })
   );*/
 
